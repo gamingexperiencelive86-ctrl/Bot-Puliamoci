@@ -1,0 +1,16 @@
+{
+  "name": "bot-fedina-fivem",
+  "version": "1.0.0",
+  "description": "Bot Discord per la pulizia della fedina penale in FiveM",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  }
+}
